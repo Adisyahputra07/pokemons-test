@@ -1,0 +1,47 @@
+.modalSignIn {
+  width: 400px;
+}
+
+.formContainer {
+  padding: 35px;
+}
+
+.form-header h1 {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.form-control-lg {
+  background-color: #e5e5e5;
+  border: 2px solid #c7c7c7;
+}
+
+.btn {
+  width: 100%;
+}
+
+.btn-signIn {
+  background-color: #d60000 !important;
+  color: white;
+  font-weight: bold;
+  height: 50px;
+}
+
+.btn-signIn:hover {
+  background-color: #aa0d0d !important;
+  color: black;
+}
+
+.btn-signIn:active {
+  background-color: #aa0d0d !important;
+  color: black;
+}
+
+.text {
+  text-align: center;
+}
+
+.text a {
+  font-weight: bold;
+  color: black;
+}

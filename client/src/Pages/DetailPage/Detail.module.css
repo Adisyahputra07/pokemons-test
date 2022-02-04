@@ -1,0 +1,51 @@
+.descBook {
+  display: flex;
+  margin-bottom: 100px !important;
+  margin-top: 20px;
+}
+
+.listDescBook {
+  background-color: white;
+  margin-left: 50px;
+}
+
+.listDesc > h1 {
+  margin-bottom: -3px !important;
+  margin-top: 20px;
+}
+
+.imgBook img {
+  width: 22em;
+  height: 32em;
+  object-fit: contain;
+}
+
+.listDesc > .title span {
+  margin-bottom: 90px !important;
+}
+
+.listDesc > p {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: -2px !important;
+}
+
+.listDesc > span {
+  font-size: 16px;
+  color: #929292;
+  margin-bottom: 20px !important;
+}
+
+.textBook > p {
+  color: #929292 !important;
+}
+
+.listDesc {
+  margin-bottom: 20px !important;
+}
+
+.btns {
+  display: flex;
+  margin-top: 30px;
+  justify-content: flex-end;
+}
